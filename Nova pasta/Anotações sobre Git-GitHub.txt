@@ -1,0 +1,8 @@
+Principais comandos git:
+
+Git Clone: clona um repositório Git existente para um novo diretório local 
+Git commit : grava alterações no repositório remoto 
+Git pull: "puxa" alterações do repositório remoto para o local e mescla as atualizações
+Git push: "empurra" as alterações do repositório local para o remoto
+Git init: iniciar repositório local
+Git status: status do repositório
